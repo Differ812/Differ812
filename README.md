@@ -1,6 +1,5 @@
 ### 👋 Hello, welcome to my GitHub profile!
 
-- 🔭 I’m currently, mainly, working on the [College Kings](https://collegekingsgame.com/) PT-PT & PT-BR translation.
 - 🌱 I’m currently learning... lots of shit.
 
 ### 📫 How to reach me:
@@ -9,3 +8,4 @@
 ### ✔️ Minor works:
 - Made the [video](https://www.youtube.com/watch?v=0VkM7NOZkuA) tutorial on [Twitch Channel Points Miner v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2). [14/02/2021]
 - Worked on pt-PT.json of [GuildProfile](https://github.com/jaimeadf/BetterDiscordPlugins/tree/release/src/GuildProfile). [09/06/2021]
+- Worked on the [College Kings](https://collegekingsgame.com/) PT-BR translation alongside [@Thyg](https://github.com/ThygLen), [@Bibs2](https://github.com/bibs2), [@KFar](https://github.com/Kfar-X), [@Peace](https://github.com/peacelocker125), [@LeMilos](https://github.com/TheProfMilos) and [@Langsdorf](https://github.com/Langsdorf). [05/09/2021]
