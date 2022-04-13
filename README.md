@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning... lots of shit.
 
 ### 📫 How to reach me:
-<img alt="Discord" src="https://discord.c99.nl/widget/theme-4/346608030579949568.png">
+<img alt="Discord" src="https://discord.c99.nl/widget/theme-4/959785251473874974.png">
 
 ### ✔️ Minor works:
 - Made the [video](https://www.youtube.com/watch?v=0VkM7NOZkuA) tutorial on [Twitch Channel Points Miner v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2). [14/02/21]
